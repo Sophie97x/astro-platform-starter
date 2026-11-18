@@ -38,8 +38,8 @@
   "overrides": {
     "@netlify/vite-plugin": { "vite": "6.4.6" },
     "@tailwindcss/vite": { "vite": "6.4.6" },
-    "glob@13": "14.0.6",
-    "minimatch@10": "11.0.9",
+    "glob": "14.0.6",
+    "minimatch": "11.0.9",
     "rollup": "4.64.12",
     "sharp": "0.35.5",
     "vitefu": { "vite": "6.4.6" }
