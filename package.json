@@ -33,13 +33,13 @@
   "devDependencies": {
     "@types/blobshape": "^1.0.3",
     "@types/node": "^20.12.7",
-    "vite": "6.4.3"
+    "vite": "6.4.6"
   },
   "overrides": {
-    "@netlify/vite-plugin": { "vite": "6.4.3" },
-    "@tailwindcss/vite": { "vite": "6.4.3" },
+    "@netlify/vite-plugin": { "vite": "6.4.6" },
+    "@tailwindcss/vite": { "vite": "6.4.6" },
     "rollup": "4.64.12",
     "sharp": "0.35.5",
-    "vitefu": { "vite": "6.4.3" }
+    "vitefu": { "vite": "6.4.6" }
   }
 }
